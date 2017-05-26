@@ -30,9 +30,10 @@ I have the following three goals:
 
 ## Translation Process
 
-Directory Structure
+### Directory Structure
 
 /podcasts/{episodeNum}/episodeInfo.md
+
 /podcasts/{episodeNum}/{minute}/{speakerName}.md
 
 ### episodeInfo.md will contain:
@@ -44,9 +45,11 @@ Directory Structure
 
 Each sentence should be broken into the following structure:
 
-Line 1: Esperanto Sentence
-Line 2: English Sentence
-Line 3: Break
+> Line 1: Esperanto Sentence
+
+> Line 2: English Sentence
+
+> Line 3: Break
 
 (And just repeat from there on out.)
 
